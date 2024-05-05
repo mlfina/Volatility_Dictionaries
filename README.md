@@ -1,10 +1,10 @@
 # Volatility_Dictionaries
 
-This site shares the *volatility dictionary* that help distill *textual volatility signals*.
+This site shares the **volatility dictionary** that help distill **textual volatility signals**.
 
 Please refer to **Chen, Du, and He (2024)** for details.
 
-## Download
+## Download via links
 
 - [The Volatility Dictionary](https://github.com/mlfina/Volatility_Dictionaries/blob/main/vol_all_sample.csv)
     - fitted with earnings conference call data of U.S stock market from 2005 to 2020, which is the latest sample.
