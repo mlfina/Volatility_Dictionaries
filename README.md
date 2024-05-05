@@ -1,8 +1,8 @@
 # Volatility_Dictionaries
 
-This site shares the \textit{volatility dictionary} that help distill \textit{textual volatility signals}.
+This site shares the *volatility dictionary* that help distill *textual volatility signals*.
 
-Please refer to Chen, Du, and He (2024) for details.
+Please refer to **Chen, Du, and He (2024)** for details.
 
 # Reference
 
